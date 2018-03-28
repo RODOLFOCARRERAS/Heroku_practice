@@ -64,3 +64,8 @@ gem 'carrierwave'
 #Faker
 gem 'faker'
 
+#Fog
+gem 'fog'
+
+#figaro
+gem 'figaro'
